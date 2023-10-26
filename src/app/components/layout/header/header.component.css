@@ -1,0 +1,17 @@
+header{
+width: 10000%;
+height: 44px;
+background-color: aquamarine;
+
+
+
+}
+
+nav{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+a{
+    color:white;
+}
